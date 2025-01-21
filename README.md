@@ -2,19 +2,20 @@
 Welcome to my world!
 
 About Me
-I'm a Software Development Engineer. I like C#, worked on various Aws services like EC2, S3, Amplify, AWS API Gateway, Lambda, etc.
+I'm a Software Development Engineer.
 
 
 
 Skills and Technologies
-FrontEnd:
-html5   css3   javascript   react   BootStrap   
+Programming Languages: C#, JavaScript, Python, TypeScript, Java, PHP, SQL, HTML5, CSS,C,C++.
 
-Backend:
-  C# nodejs   expressjs   java   php  python   django   pandas   numpy   
+Frameworks & Technologies: .NET, ASP .NET Core, MVC, React, Spring Boot, MVC, jQuery, Ajax, Bootstrap.
 
-Databases:
-mysql   DynamoDB   sqlite   mysql   mssql  
+Cloud Services: AWS, EC2, Azure VM.
 
-Other Important Tools:
-aws   git   docker    
+Version Control & Tools:  Git, GitHub, Postman, Visual Studio, Maven.
+
+Database Technologies: MySQL, MongoDB.
+
+Methodologies: Agile Software Development (Scrum), SDLC, Pair Programming, Code Reviews 
+
