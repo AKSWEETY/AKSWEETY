@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi there I'm AKSHAYA KADARI
+Welcome to my world!
 
-<!--
-**AKSWEETY/AKSWEETY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me
+I'm a Software Development Engineer. I like C#, worked on various Aws services like EC2, S3, Amplify, AWS API Gateway, Lambda, etc.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Skills and Technologies
+FrontEnd:
+html5   css3   javascript   react   BootStrap   
+
+Backend:
+  C# nodejs   expressjs   java   php  python   django   pandas   numpy   
+
+Databases:
+mysql   DynamoDB   sqlite   mysql   mssql  
+
+Other Important Tools:
+aws   git   docker    
